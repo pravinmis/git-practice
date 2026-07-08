@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 new hello 
-=======
-new hello ji
->>>>>>> feature_login
